@@ -1,0 +1,114 @@
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.Droid.dll.config
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.Droid.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.Droid.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\com.xamarin.BookClient.Droid.apk
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\com.xamarin.BookClient.Droid-Signed.apk
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\FormsViewGroup.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.Abstractions.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.dll.config
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\FormsViewGroup.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.Abstractions.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.Abstractions.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Plugin.Multilingual.Abstractions.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\br\BookClient.resources.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\es\BookClient.resources.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\BookClient.Droid.csprojResolveAssemblyReference.cache
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\BookClient.Droid.csproj.CoreCompileInputs.cache
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\BookClient.Droid.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\BookClient.Droid.pdb
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\android\bin\com.xamarin.BookClient.Droid.apk
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable\icon.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable\ic_action_new.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable\ic_autorenew.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-hdpi\ic_action_new.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-hdpi\ic_autorenew.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xhdpi\ic_action_new.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xhdpi\ic_autorenew.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xxhdpi\ic_action_new.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\res\drawable-xxhdpi\ic_autorenew.png
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\R.cs.flag
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\obj\Debug\uploadflags.txt
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\en\BookClient.resources.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.Droid\bin\Debug\BookClient.Droid.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\BookClient.dll
+bin\Debug\BookClient.dll.mdb
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\BookClient.Droid.dll.mdb
+obj\Debug\linksrc\BookClient.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Multilingual.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Multilingual.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
