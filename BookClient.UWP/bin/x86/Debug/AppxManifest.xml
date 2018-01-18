@@ -19,8 +19,11 @@
   </Dependencies>
   <Resources>
     <Resource Language="EN-US" />
-    <Resource Language="EN" />
-    <Resource Language="ES" />
+    <Resource Language="DE" />
+    <Resource Language="FR" />
+    <Resource Language="JA" />
+    <Resource Language="PT-BR" />
+    <Resource Language="ZH-HANS" />
   </Resources>
   <Applications>
     <Application Id="App" Executable="BookClient.UWP.exe" EntryPoint="BookClient.UWP.App">

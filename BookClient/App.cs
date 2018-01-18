@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Xamarin.Forms;
+using BookClient.Helpers;
 
 namespace BookClient
 {
@@ -11,7 +11,8 @@ namespace BookClient
 	{
 		public App()
 		{
-			// The root page of your application
+            // The root page of your application
+            AppResources.Culture = new System.Globalization.CultureInfo("en");
             MainPage = new NavigationPage(new MainPage());
 		}
 

@@ -24761,12 +24761,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient.UWP\\BookClient.UWP.csproj",
+      "projectUniqueName": "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient.UWP\\BookClient.UWP.csproj",
       "projectName": "BookClient.UWP",
-      "projectPath": "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient.UWP\\BookClient.UWP.csproj",
-      "projectJsonPath": "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient.UWP\\project.json",
+      "projectPath": "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient.UWP\\BookClient.UWP.csproj",
+      "projectJsonPath": "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient.UWP\\project.json",
       "packagesPath": "C:\\Users\\ibti\\.nuget\\packages\\",
-      "outputPath": "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient.UWP\\obj\\",
+      "outputPath": "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -24783,8 +24783,8 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient\\BookClient.csproj": {
-              "projectPath": "C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient\\BookClient.csproj"
+            "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient\\BookClient.csproj": {
+              "projectPath": "C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient\\BookClient.csproj"
             }
           }
         }

@@ -4,19 +4,23 @@
              xmlns:infrastructure="clr-namespace:BookClient.Infrastructure;assembly=BookClient"
              x:Class="BookClient.MainPage" x:Name="ThePage" 
              Title="Library Books"
-             xmlns:translator="BookClient.Helpers"
+             xmlns:translator="clr-namespace:BookClient.Helpers"
              >
       <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add New" Icon="ic_action_new.png" Clicked="OnAddNewBook" />
-        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Clicked="OnRefresh" />
-      </ContentPage.ToolbarItems>
+        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Clicked="OnRefresh" />        
+    </ContentPage.ToolbarItems>
 
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>            
+        </Grid.RowDefinitions>
         <ListView ItemsSource="{Binding}"
                   ItemTapped="OnEditBook">
             <ListView.ItemTemplate>
               <DataTemplate>
-                <TextCell Text="{translator:Translate {Binding Title}}" Detail="{Binding Genre}">
+                    <TextCell Text="{Binding Title}" Detail="{Binding Genre}">
                   <TextCell.ContextActions>
                     <MenuItem Clicked="OnDeleteBook"
                         CommandParameter="{Binding}"
@@ -24,16 +28,38 @@
                   </TextCell.ContextActions>
                 </TextCell>
               </DataTemplate>
+              
             </ListView.ItemTemplate>
         </ListView>
-
-        <!-- Challenge exercise - add Activity Indicator -->
+        
         <StackLayout IsVisible="{Binding Source={x:Reference ThePage}, Path=IsBusy}"
                     HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Padding="20">
           <Label Text="Loading Data..." TextColor="Gray" HorizontalOptions="Center" />
           <ActivityIndicator IsRunning="{Binding Source={x:Reference ThePage}, Path=IsBusy}" Color="Accent" >
           </ActivityIndicator>
         </StackLayout>
-
-  </Grid>
+        <StackLayout>
+            <Picker Title="Select a monkey">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Baboon</x:String>
+                        <x:String>Capuchin Monkey</x:String>
+                        <x:String>Blue Monkey</x:String>
+                        <x:String>Squirrel Monkey</x:String>
+                        <x:String>Golden Lion Tamarin</x:String>
+                        <x:String>Howler Monkey</x:String>
+                        <x:String>Japanese Macaque</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Picker Title="Select Language">
+                <Picker.Items>
+                    <x:String>English</x:String>
+                    <x:String>Japonese</x:String>
+                    <x:String>French</x:String>
+                    <x:String>Deutch</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+    </Grid>
 </ContentPage>

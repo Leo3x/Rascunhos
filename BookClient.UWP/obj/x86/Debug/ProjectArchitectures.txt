@@ -1,2 +1,2 @@
-C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\BookClient.UWP.csproj;x86
-C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\BookClient.csproj;neutral
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\BookClient.UWP.csproj;x86
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\BookClient.csproj;neutral

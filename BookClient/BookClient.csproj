@@ -37,25 +37,35 @@
   <ItemGroup>
     <Compile Include="AddEditBookPage.cs" />
     <Compile Include="App.cs" />
-    <Compile Include="AppResource.es.Designer.cs">
+    <Compile Include="AppResources.de.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>AppResource.es.resx</DependentUpon>
+      <DependentUpon>AppResources.de.resx</DependentUpon>
     </Compile>
-    <Compile Include="AppResource.ch.Designer.cs">
+    <Compile Include="AppResources.ja.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>AppResource.ch.resx</DependentUpon>
+      <DependentUpon>AppResources.ja.resx</DependentUpon>
     </Compile>
-    <Compile Include="AppResource.br.Designer.cs">
+    <Compile Include="AppResources.fr.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>AppResource.br.resx</DependentUpon>
+      <DependentUpon>AppResources.fr.resx</DependentUpon>
     </Compile>
-    <Compile Include="AppResource.en.Designer.cs">
+    <Compile Include="AppResources.zh-Hans.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>AppResource.en.resx</DependentUpon>
+      <DependentUpon>AppResources.zh-Hans.resx</DependentUpon>
+    </Compile>
+    <Compile Include="AppResources.pt-BR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.pt-BR.resx</DependentUpon>
+    </Compile>
+    <Compile Include="AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
     <Compile Include="Data\Book.cs" />
     <Compile Include="Data\BookManager.cs" />
@@ -101,21 +111,29 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="AppResource.es.resx">
+    <EmbeddedResource Include="AppResources.de.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>AppResource.es.Designer.cs</LastGenOutput>
+      <LastGenOutput>AppResources.de.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="AppResource.ch.resx">
+    <EmbeddedResource Include="AppResources.ja.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>AppResource.ch.Designer.cs</LastGenOutput>
+      <LastGenOutput>AppResources.ja.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="AppResource.br.resx">
+    <EmbeddedResource Include="AppResources.fr.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>AppResource.br.Designer.cs</LastGenOutput>
+      <LastGenOutput>AppResources.fr.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="AppResource.en.resx">
+    <EmbeddedResource Include="AppResources.zh-Hans.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>AppResource.en.Designer.cs</LastGenOutput>
+      <LastGenOutput>AppResources.zh-Hans.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppResources.pt-BR.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.pt-BR.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="MainPage.xaml">
       <SubType>Designer</SubType>

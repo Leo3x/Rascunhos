@@ -28,17 +28,17 @@ namespace BookClient
                             Detail = (existingBook != null) ? existingBook.ISBN : "Will be generated"
                         },
                         (titleCell = new EntryCell {
-                            Label = "Title",
+                            Label = AppResources.title,
                             Placeholder = "add title",
                             Text = (existingBook != null) ? existingBook.Title : null,
                         }),
                         (genreCell = new EntryCell {
-                            Label = "Genre",
+                            Label = AppResources.genre,
                             Placeholder = "add genre",
                             Text = (existingBook != null) ? existingBook.Genre : null,
                         }),
                         (authorCell = new EntryCell {
-                            Label = "Author",
+                            Label = AppResources.author,
                             Placeholder = "add author",
                             Text = (existingBook != null) ? existingBook.Authors.FirstOrDefault() : null,
                         }),

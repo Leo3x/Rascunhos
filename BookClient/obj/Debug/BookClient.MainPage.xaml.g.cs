@@ -11,8 +11,7 @@
 namespace BookClient {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\programacao\\XAM150-master\\XAM150-master\\Exercise 3\\Completed\\BookClient\\MainPa" +
-        "ge.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\programacao\\POC_LOCALIZACAO\\poc\\Completed\\BookClient\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

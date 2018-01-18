@@ -27,6 +27,7 @@ C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\b
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\br\BookClient.resources.dll
+C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\en\BookClient.resources.dll
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\es\BookClient.resources.dll
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
@@ -71,4 +72,79 @@ C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\o
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClient.iOS.csproj.CoreCompileInputs.cache
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClientiOS.exe
 C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClientiOS.pdb
-C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\en\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClientiOS.exe.config
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClientiOS.exe
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClientiOS.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClient.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Plugin.Multilingual.Abstractions.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Plugin.Multilingual.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClient.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\BookClient.dll.config
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Plugin.Multilingual.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Plugin.Multilingual.Abstractions.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Plugin.Multilingual.Abstractions.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Extensions.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\de\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\fr\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ja\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\pt-BR\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\zh-Hans\BookClient.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClient.iOS.csprojResolveAssemblyReference.cache
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClientiOS.exe.config
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClient.iOS.csproj.CoreCompileInputs.cache
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClientiOS.exe
+C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.iOS\obj\iPhoneSimulator\Debug\BookClientiOS.pdb

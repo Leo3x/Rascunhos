@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>C32B9F84-DA47-49B4-A9F7-D982BB40D32E</PackageIdentityName>
     <PackageIdentityPublisher>CN=Xamarin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\BookClient.UWP.exe">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\BookClient.UWP.exe">
       <PackagePath>entrypoint\BookClient.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ibti\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -412,58 +412,64 @@
     <AppxPackagedFile Include="C:\Users\ibti\.nuget\packages\xamarin.forms\2.4.0.282\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\BookClient.dll">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\BookClient.dll">
       <PackagePath>BookClient.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\br\BookClient.resources.dll">
-      <PackagePath>br\BookClient.resources.dll</PackagePath>
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\de\BookClient.resources.dll">
+      <PackagePath>de\BookClient.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\en\BookClient.resources.dll">
-      <PackagePath>en\BookClient.resources.dll</PackagePath>
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\fr\BookClient.resources.dll">
+      <PackagePath>fr\BookClient.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\es\BookClient.resources.dll">
-      <PackagePath>es\BookClient.resources.dll</PackagePath>
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\ja\BookClient.resources.dll">
+      <PackagePath>ja\BookClient.resources.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient\bin\Debug\BookClient.dll.config">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\pt-BR\BookClient.resources.dll">
+      <PackagePath>pt-BR\BookClient.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\zh-Hans\BookClient.resources.dll">
+      <PackagePath>zh-Hans\BookClient.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient\bin\Debug\BookClient.dll.config">
       <PackagePath>BookClient.dll.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\ic_action_new.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\ic_action_new.png">
       <PackagePath>ic_action_new.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\ic_autorenew.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\ic_autorenew.png">
       <PackagePath>ic_autorenew.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\BookClient.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\BookClient.UWP.xr.xml">
       <PackagePath>BookClient.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -472,11 +478,11 @@
     <AppxPackagedFile Include="C:\Users\ibti\.nuget\packages\xamarin.forms\2.4.0.282\lib\uap10.0\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\programacao\XAM150-master\XAM150-master\Exercise 3\Completed\BookClient.UWP\bin\x86\Debug\Core\BookClient.UWP.exe">
+    <AppxPackagedFile Include="C:\programacao\POC_LOCALIZACAO\poc\Completed\BookClient.UWP\bin\x86\Debug\Core\BookClient.UWP.exe">
       <PackagePath>BookClient.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
